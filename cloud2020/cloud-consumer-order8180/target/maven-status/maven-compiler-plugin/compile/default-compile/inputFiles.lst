@@ -1,0 +1,6 @@
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MySelfRule.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/MyLB.java

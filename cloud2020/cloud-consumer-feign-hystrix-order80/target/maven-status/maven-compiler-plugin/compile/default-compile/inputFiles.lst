@@ -1,0 +1,4 @@
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/OrderHystrixMain80.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/controller/OrderHystirxController.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentFallbackService.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentHystrixService.java

@@ -1,0 +1,9 @@
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/SeataStorageServiceApplication2002.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/config/MyBatisConfig.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/controller/StorageController.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/dao/StorageDao.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/domain/CommonResult.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/domain/Storage.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/service/StorageService.java
+/home/hv11333/YeYao/SoftwareArchitecture/SpringCloud/SpringCloud_2020_AtGuigu/cloud2020/seata-storage-service2002/src/main/java/com/atguigu/springcloud/alibaba/service/impl/StorageServiceImpl.java
